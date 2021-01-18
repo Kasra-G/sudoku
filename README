@@ -1,0 +1,5 @@
+This is a simple C program to brute force all possible solutions of a given Sudoku puzzle.
+
+##How to Compile##
+Assuming a linux environment, ensure make and gcc is installed.
+1. Run make to get the object code (Sudoku.o).
